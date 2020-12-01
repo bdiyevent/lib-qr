@@ -4,7 +4,7 @@ Javascript is used to obtain images with a nominal static qr flexibly
 1. add this js on the tag header
 
    https://rawcdn.githack.com/bdiyevent/lib-qr/43605eaef283871d0ef7f39551d77dd8d50dd192/qrious.js
-   https://rawcdn.githack.com/bdiyevent/lib-qr/5017645003de786f3c95b0dabb539872ce889e0e/qrIstimewa.js
+   https://rawcdn.githack.com/bdiyevent/lib-qr/f1a9e1b53365a8039731878e9b565e57207e83ae/qrIstimewa.js
 
 
 
