@@ -20,4 +20,6 @@ Javascript is used to obtain images with a nominal static qr flexibly
    
    
    
+   _____________________________________________________________________________________________________________________
+   
    good luck.......!!!!!
