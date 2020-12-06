@@ -23,10 +23,12 @@ Javascript is used to obtain images with a nominal static qr flexibly
 
 3. add the following elements to display the QR image
 
+   image :
    \<img id=imageQR>
    <br>
    or
    <br>
+   text :
    \<input id=dataQR>
    
    
