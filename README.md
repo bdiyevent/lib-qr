@@ -36,6 +36,7 @@ Javascript is used to obtain images with a nominal static qr flexibly
    or
    <br>
    row :
+   <br>
    you can create a function to place a qr string return
    
    
