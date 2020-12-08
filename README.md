@@ -33,6 +33,7 @@ Javascript is used to obtain images with a nominal static qr flexibly
    <br>
    text :
    \<input id=dataQR>>
+   <br>
    or
    <br>
    row :
