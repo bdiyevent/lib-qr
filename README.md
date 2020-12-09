@@ -12,7 +12,7 @@ Javascript is used to obtain images with a nominal static qr flexibly
    https://rawcdn.githack.com/bdiyevent/lib-qr/7c6128ee29c4b24e18ea9ff5efaed06355cbebc0/qrIstimewa.js
    
    versi 1.6
-   https://rawcdn.githack.com/bdiyevent/lib-qr/ea992f77c7c96fcc3a87d9dfb9718f4a6b4fc95c/qrIstimewa.js
+   https://rawcdn.githack.com/bdiyevent/lib-qr/0b2f43238694e4cb5b96bb6342efae8578160db6/qrIstimewa.js
 
 
 
@@ -20,7 +20,7 @@ Javascript is used to obtain images with a nominal static qr flexibly
 
    getQR("value", "type");
    
-   type => "text" or "image" or "row"
+   type => "text" or "image" or "raw"
 
 
 
